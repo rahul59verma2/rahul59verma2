@@ -1,12 +1,12 @@
 # Rahul Verma - Senior MERN Stack Developer
 
-## 👋 About Me
+## About Me
 
 MERN Stack Developer with 5+ years of experience building scalable web applications using MongoDB, Express.js, React.js, and Node.js. Experienced in developing RESTful APIs, responsive user interfaces, microservices, and cloud-based solutions. Passionate about creating high-performance applications and delivering impactful digital products.
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 ### Frontend
 
@@ -62,7 +62,7 @@ MERN Stack Developer with 5+ years of experience building scalable web applicati
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### E-Commerce Marketplace Platform
 
@@ -80,17 +80,15 @@ MERN Stack Developer with 5+ years of experience building scalable web applicati
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Technology (B.Tech)**
 Computer Science Engineering
 
 ---
 
-## 📫 Contact
+## Contact
 
 * Email: [rahulverma.dev@gmail.com](mailto:rahul59verma2@gmail.com)
 
 ---
-
-⭐ Feel free to explore my repositories and connect with me for collaboration opportunities.
